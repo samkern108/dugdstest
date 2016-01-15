@@ -1,0 +1,1 @@
+A sample example repository for teaching about git.
